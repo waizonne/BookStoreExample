@@ -18,9 +18,11 @@ html {
 }
 
 body {
-  background: #0d0d0d;
+  background: #0d0d0d !important;
   padding-top: 5rem;
 }
+
+
 
 section {
   padding: 5rem 9%;
